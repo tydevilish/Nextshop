@@ -19,6 +19,12 @@ const products = [
     price: '$39.99',
     image: 'https://gourmetmarketthailand.com/_next/image?url=https%3A%2F%2Fmedia-stark.gourmetmarketthailand.com%2Fproducts%2Fcover%2F5038483198148-1.webp&w=640&q=75',
   },
+    {
+    id: 4,
+    name: 'Beautiful Seat',
+    price: '$39.99',
+    image: 'https://us-fbcloud.net/wb/data/959/959524-img.rs7udr.7p.opsffqf3.webp',
+  },
 ]
 
 export default function Home() {
