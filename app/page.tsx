@@ -19,7 +19,7 @@ const products = [
     price: '$39.99',
     image: 'https://gourmetmarketthailand.com/_next/image?url=https%3A%2F%2Fmedia-stark.gourmetmarketthailand.com%2Fproducts%2Fcover%2F5038483198148-1.webp&w=640&q=75',
   },
-]g
+]
 
 export default function Home() {
   return (
