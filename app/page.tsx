@@ -3,27 +3,21 @@ import Head from 'next/head'
 const products = [
   {
     id: 1,
-    name: 'Basic T-shirt',
-    price: '$19.99',
-    image: 'https://bdsmthai.com/wp-content/uploads/2019/09/BDSM-THAI-SHOP-_630.jpg.jpg',
+    name: 'วันทัช ถุงยางอนามัย แฮปปี้',
+    price: '93 บาท',
+    image: 'https://media.allonline.7eleven.co.th/pdzoom/582359-00-condom-onetouch-v2.jpg',
   },
   {
     id: 2,
-    name: 'Cool Sneakers',
-    price: '$49.99',
-    image: 'https://f.btwcdn.com/store-38573/product/7186a619-f04a-dbd6-5196-6492ac65ae5b.jpg',
+    name: 'วันทัช ถุงยางอนามัย แม็กซ์ ดอท',
+    price: '98 บาท',
+    image: 'https://media.allonline.7eleven.co.th/pdzoom/582355-00-condom-onetouch-v1.jpg',
   },
   {
     id: 3,
-    name: 'Stylish Backpack',
-    price: '$39.99',
-    image: 'https://gourmetmarketthailand.com/_next/image?url=https%3A%2F%2Fmedia-stark.gourmetmarketthailand.com%2Fproducts%2Fcover%2F5038483198148-1.webp&w=640&q=75',
-  },
-    {
-    id: 4,
-    name: 'Beautiful Seat',
-    price: '$39.99',
-    image: 'https://us-fbcloud.net/wb/data/959/959524-img.rs7udr.7p.opsffqf3.webp',
+    name: 'วันทัช ถุงยางอนามัย มิกซ์ 3 พลัส',
+    price: '152 บาท',
+    image: 'https://media.allonline.7eleven.co.th/pdzoom/582354-00-condom-onetouch-v1.jpg',
   },
 ]
 
